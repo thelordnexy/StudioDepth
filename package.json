@@ -1,0 +1,13 @@
+{
+  "name": "studiodepth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resource_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node resource_server.js"
+  },
+  "keywords": [],
+  "author": "Joshua Sunday (Nexaeus)",
+  "license": "ISC"
+}
