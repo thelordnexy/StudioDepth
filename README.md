@@ -25,7 +25,7 @@ Since this is a simple static site, getting it running is easy!
 
 1.  **Clone the repository:**
     ```bash
-    git clone (https://github.com/thelordnexy/StudioDepth.git)
+    git clone https://github.com/thelordnexy/StudioDepth.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
